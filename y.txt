@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,joygo.cloud
+IP-CIDR,103.112.211.0/24
+DOMAIN-SUFFIX,vinahost.vn
+DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,godaddy.com
