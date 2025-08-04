@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,godaddy.com
 DOMAIN,sub.f3.wiki
 DOMAIN,y-sub.f3.wiki
 DOMAIN-SUFFIX,larksuite.com 
+DOMAIN-SUFFIX,madouqu.com
+DOMAIN-SUFFIX,uaa.com
 DOMAIN-SUFFIX,ibytedtos.com 
 DOMAIN-SUFFIX,byteoversea.com 
 DOMAIN-SUFFIX,larksuitecdn.com 
